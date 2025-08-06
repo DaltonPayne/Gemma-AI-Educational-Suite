@@ -45,12 +45,12 @@ conversation_text += "<start_of_turn>model\n"
 git clone https://github.com/yourusername/Gemma-AI-Educational-Suite.git
 cd Gemma-AI-Educational-Suite
 
-# Install dependencies (auto-installs on first run)
+# Install dependencies
+pip install -r requirements.txt
+
+# Run program
 python main.py
 
-# Or manual installation:
-pip install torch transformers pillow numpy sounddevice soundfile pyperclip PyMuPDF python-docx tiktoken unsloth
-```
 
 ## 📱 Usage
 
