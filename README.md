@@ -10,7 +10,7 @@ This application leverages **Gemma 3n models** through Unsloth for optimized inf
 from unsloth import FastModel
 # Core Gemma 3n integration
 model, tokenizer = FastModel.from_pretrained(
-    model_name="unsloth/gemma-3n-E4B-it",  # Supports 2B/4B/5B/8B variants
+    model_name="unsloth/gemma-3n-E4B-it",  # Supports 2B/4B variants
     dtype=None,
     max_seq_length=1024,
     load_in_4bit=True,  # Memory optimization
