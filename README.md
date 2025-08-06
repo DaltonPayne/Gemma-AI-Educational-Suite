@@ -115,14 +115,9 @@ python main.py
 - **Thread Safety**: Dedicated generation threads with stop controls
 - **Format Support**: 15+ document formats, 7+ audio formats
 
-## 🎯 Hackathon Innovation
+## 🎯 Hackathon Inspiration
 
-This project demonstrates:
-1. **Practical Gemma 3n Integration**: Real-world educational application
-2. **Complete Offline Capability**: Addresses connectivity and privacy concerns
-3. **Multimodal Learning**: Beyond text-only AI interactions
-4. **Educational Focus**: Purpose-built for learning enhancement
-5. **User Experience**: Intuitive GUI with comprehensive features
+This project was made for The Gemma 3n Impact Challenge
 
 ## 📁 Project Structure
 
@@ -130,13 +125,9 @@ This project demonstrates:
 ├── main.py                 # Core application with Gemma 3n integration
 ├── requirements.txt        # Dependencies
 ├── README.md              # This file
-└── models/                # Local model storage (auto-created)
+└── unsloth_compiled_cache/                # Local model storage (auto-created)
 ```
 
 ## License
 
 CC BY 4.0
-
----
-
-**🤖 Powered by Gemma 3n** | **🌐 Works Completely Offline** | **🎓 Educational AI Revolution**
