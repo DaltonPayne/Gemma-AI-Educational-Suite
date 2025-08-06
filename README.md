@@ -42,7 +42,7 @@ conversation_text += "<start_of_turn>model\n"
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Gemma-AI-Educational-Suite.git
+git clone https://github.com/DaltonPayne/Gemma-AI-Educational-Suite.git
 cd Gemma-AI-Educational-Suite
 
 # Install dependencies
@@ -55,19 +55,9 @@ python main.py
 ## 📱 Usage
 
 1. **Launch Application**: `python main.py`
-2. **Download AI Model**: Click "🤖 Model Manager" → "📥 Download Model" → Select Gemma 3n variant
-3. **Enable Offline Mode**: Check "🌐 Offline Mode" for complete privacy
-4. **Upload Study Materials**: Click "Add Document" → Select textbooks/notes
-5. **Start Learning**: Ask questions, generate quizzes, create concept maps
-
-## 🧠 Gemma 3n Model Variants
-
-| Model | Size | RAM Required | Use Case |
-|-------|------|-------------|----------|
-| `gemma-3n-2B-it` | ~1.5GB | 4GB+ | Fast responses, basic tutoring |
-| `gemma-3n-E4B-it` | ~2.5GB | 6GB+ | **Recommended** - balanced performance |
-| `gemma-3n-5B-it` | ~3.5GB | 8GB+ | Higher quality responses |
-| `gemma-3n-8B-it` | ~5GB | 12GB+ | Best quality, detailed explanations |
+2. **Upload Study Materials**: Click "Add Document" → Select textbooks/notes
+3. **Start Learning**: Ask questions, generate quizzes, create concept maps
+   
 
 ## 🎓 Educational Capabilities
 
