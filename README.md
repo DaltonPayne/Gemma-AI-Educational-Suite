@@ -36,7 +36,7 @@ conversation_text += "<start_of_turn>model\n"
 - **Educational Tools**: Quiz generation, concept mapping, homework assistance, skill assessment
 - **Document Support**: PDF (with page selection), DOCX, TXT, MD, HTML, code files
 - **Smart Context Management**: 32K token window with intelligent usage tracking
-- **Model Flexibility**: Supports all Gemma 3n variants (2B to 8B parameters)
+- **Model Flexibility**: Supports all Gemma 3n variants (2B to 4B parameters)
 
 ## 🛠️ Setup
 
